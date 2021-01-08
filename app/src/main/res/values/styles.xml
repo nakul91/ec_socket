@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorControlHighlight">@color/color_higligh</item>
+
+    </style>
+
+    <style name="AppTheme.ActionBar.Transparent" parent="AppTheme">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="colorWhite">
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+    </style>
+    <style name="colorBlack">
+        <item name="colorControlHighlight">@color/per20Black</item>
+    </style>
+
+
+    <style name="rippleBackgroundEffectW">
+        <item name="android:theme">@style/colorBlack</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+    </style>
+
+    <style name="rippleBackgroundEffectWTap">
+        <item name="android:theme">@style/colorWhite</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+
+</resources>

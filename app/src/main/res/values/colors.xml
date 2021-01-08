@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DDDDDD</color>
+    <color name="colorPrimaryDark">#ADADAD</color>
+    <color name="colorAccent">#777777</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="subtext">#4B0082</color>
+    <color name="text_black">#383838</color>
+    <color name="warningColor">#DF3B2E</color>
+    <color name="course_completed_color">#888888</color>
+    <color name="view_color">#ECECEC</color>
+    <color name="unSelectedColor">#979797</color>
+    <color name="selectedColor">#0071FF</color>
+    <color name="learning_chapter_color">#8D5D00</color>
+    <color name="light_green">#501AB700</color>
+    <color name="correct_green">#1AB700</color>
+    <color name="correct_red">#FF4949</color>
+    <color name="no_internet_color">#3681A2</color>
+    <color name="no_internet_content_color">#ADADAD</color>
+    <color name="unSelectedColor_tab">#C8E0FF</color>
+
+
+
+    <color name="green_done">#239a54</color>
+
+    <color name="text_high_color">#4115F1</color>
+    <color name="skeletonColor">#DDDDDD</color>
+    <color name="lineColor">#E5E5E5</color>
+
+
+
+    <color name="grey_back">#F3F5F8</color>
+
+
+
+
+
+
+
+
+
+
+    <!--white-->
+    <color name="per10White">#1AFFFFFF</color>
+    <color name="per20White">#33FFFFFF</color>
+    <color name="per30White">#4DFFFFFF</color>
+    <color name="per40White">#66FFFFFF</color>
+    <color name="per50White">#80FFFFFF</color>
+    <color name="per60White">#99FFFFFF</color>
+    <color name="per70White">#B3FFFFFF</color>
+    <color name="per80White">#CCFFFFFF</color>
+    <color name="per90White">#E6FFFFFF</color>
+
+    <!--black-->
+
+    <color name="per20Black">#33000000</color>
+    <color name="per30Black">#4D000000</color>
+    <color name="per40Black">#66000000</color>
+    <color name="per50Black">#80000000</color>
+    <color name="per80Black">#CC000000</color>
+    <color name="per90Black">#E6000000</color>
+
+    <color name="color_higligh">#E4F0FF</color>
+
+
+
+    <color name="error_dd">#bb2a2a</color>
+    <color name="succ_dd">#239a54</color>
+    <color name="info_dd">#ffe89b</color>
+    <color name="transparent">#00000000</color>
+
+</resources>
